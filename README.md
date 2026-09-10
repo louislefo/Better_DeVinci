@@ -1,5 +1,11 @@
 # ESILV Better DeVinci - System Architecture & Showcase
 
+[![Status](https://img.shields.io/badge/Status-Case%20Study%20%2F%20V2%20Roadmap-blue)](https://github.com/)
+[![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-success)](https://github.com/)
+[![Target](https://img.shields.io/badge/Target-ESILV%20Students-orange)](https://github.com/)
+[![Code](https://img.shields.io/badge/Source-Private%20Repository-lightgrey)](https://github.com/)
+[![License](https://img.shields.io/badge/License-Proprietary-red)](https://github.com/)
+
 Plateforme intelligente de suivi académique, moteur de calcul prédictif et système de notification pour les étudiants de l'ESILV.
 
 ---
